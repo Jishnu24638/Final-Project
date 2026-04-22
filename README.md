@@ -1,2 +1,2 @@
 ### Final-Project
-Predicting  Crop Yield in India using Machine Learning”
+Crop Yield Prediction Using Machine Learning Models: A Comparative Study on Indian Agricultural Data
